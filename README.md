@@ -17,7 +17,7 @@
 
 ```bash
 # Клонирование репозитория
-git clone https://github.com/zaytsevki/C8_M7_1.git
+git clone https://github.com/zaytsevki/C8_M7_2.git
 ```
 Так же, для корректной работы необходим Jupyter Notebook.
 ```bash
@@ -28,4 +28,4 @@ pip install Jupyter Notebook
 
 ## Использование
 
-Выполняется файл [C8_M7.ipynb](C8_M7.ipynb), внутри файла есть метод "pipeline" который отвечает за обучение и предсказание на двух входящих наборах данных 
+Выполняется файл [C8_M5.ipynb](C8_M5.ipynb), внутри файла есть метод "pipeline" который отвечает за обучение и предсказание на двух входящих наборах данных 
